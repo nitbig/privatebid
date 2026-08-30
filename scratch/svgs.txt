@@ -1,0 +1,61 @@
+--- IMG #0 ---
+<img src="/Lombiq.Tenants.Core.BaseTheme/images/lombiq-logo-small.svg?v=ZvCCSUZRV1kky2mTOp-h79qswY3Idscv907s1fqyAQA"
+                    alt="Lombiq Logo" class="lombiqMainMenu__container__logo">
+
+--- IMG #1 ---
+<img src="/media/OurClientsWidget/live-nation-clubs-and-theaters-logo.webp?v=fHVWBa8zXt0YfWlB7WlLkRKIKUI4orkXeirtkiHETSg" alt="Logo of one of Lombiq&#x27;s clients: live nation clubs and theaters" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #2 ---
+<img src="/media/OurClientsWidget/smithsonian-logo.webp?v=_rCpd-ap7RRBugKFVm0vxEug6yGtz8AAXaUhLixBDq8" alt="Logo of one of Lombiq&#x27;s clients: smithsonian" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #3 ---
+<img src="/media/OurClientsWidget/microsoft-logo.webp?v=TRcHlUs8UbyrcEXjOmutBt8noA296b7VrwDkjw4erFo" alt="Logo of one of Lombiq&#x27;s clients: microsoft" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #4 ---
+<img src="/media/OurClientsWidget/washington-state-esd-logo.webp?v=pmVFmius9Eg02LaDT7BoEJrTl-lhsNY9jPE-JsKhSDA" alt="Logo of one of Lombiq&#x27;s clients: washington state esd" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #5 ---
+<img src="/media/OurClientsWidget/nice-logo.webp?v=vVFhNq38m6ZaveozXMAevnY8NRs4Ey5Nrmt4lrsXeKU" alt="Logo of one of Lombiq&#x27;s clients: nice" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #6 ---
+<img src="/media/OurClientsWidget/dotnet-foundation-logo.webp?v=brPLuG_0y-SdaLHyNWxOwQnaCIG3UOs8HCo6SPrI9iA" alt="Logo of one of Lombiq&#x27;s clients: dotnet foundation" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #7 ---
+<img src="/media/OurClientsWidget/naxos-of-america-inc-logo.webp?v=7vKLDBuHkp8y4c6tNqAza9zXk-1RfMwmr9ry67JSIkg" alt="Logo of one of Lombiq&#x27;s clients: naxos of america inc" class="ourClientsWidget__logo" loading="lazy">
+
+--- IMG #8 ---
+<img src="/media/CustomerCardWidget/smithsonian-institution-logo.webp?v=ZLnIMgIl1ZSlcBXjppYUL7XtFi7wODPuZWGdFL23Fyo"
+             class="customerCardWidget__image"
+             alt="Image of Smithsonian Folkways Recordings"
+             loading="lazy">
+
+--- IMG #9 ---
+<img src="/media/CustomerCardWidget/global-health-logo.webp?v=CCLMFqKH_ZgAHU9Phb67L4LqtzUHFY8h-0Xl-T4foEA"
+             class="customerCardWidget__image"
+             alt="Image of Global Health"
+             loading="lazy">
+
+--- IMG #10 ---
+<img src="/media/BlogPost/2026/building-relationships-beyond-our-bubble-the-communities-we-joined-this-year/tower-bridge-london.webp?v=60A6L0UIE7HzZFobRp7ODdjOZxpL2Q_aPaQJ2rfxTdA"
+                     class="blogPostSummary__image"
+                     alt=""
+                     loading="lazy" />
+
+--- IMG #11 ---
+<img src="/media/BlogPost/2026/integrate-microsoft-login-into-your-asp-net-core-or-orchard-core-application-with-ease/signin.webp?v=VmmM27gGmg4CDbV5mzMAibHrQlWfZGJDkgseUKdq8oY"
+                     class="blogPostSummary__image"
+                     alt=""
+                     loading="lazy" />
+
+--- IMG #12 ---
+<img src="/media/BlogPost/2026/long-term-orchard-core-maintenance-for-the-city-of-santa-monica/santamonica-gov-screenshot.webp?v=yiChykjxIsVF5esP5aYvtbdsIikjNXjDThSt3adJXMk"
+                     class="blogPostSummary__image"
+                     alt=""
+                     loading="lazy" />
+
+--- IMG #13 ---
+<img src="/media/Misc/orchard-dojo-horizontal-notagline-trimmed.svg" alt="orchard-dojo-horizontal-notagline-trimmed.svg" />
+
+--- IMG #14 ---
+<img src="/media/Misc/dotnest-logo.svg" alt="DotNest" />
+
