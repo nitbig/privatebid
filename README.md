@@ -6,7 +6,7 @@
 
 PrivateBid enables organizations to run digital procurement auctions where **bid values remain confidential while the final outcome can be verified**.
 
-[Live Demo](https://privatebid.netlify.app/) · [GitHub]([YOUR_GITHUB_URL](https://github.com/nitbig/privatebid/)
+[Live Demo](https://privatebid.netlify.app/) · [GitHub](https://github.com/nitbig/privatebid/)
 
 ---
 
