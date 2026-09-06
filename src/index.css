@@ -1,0 +1,96 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/forms";
+
+@theme {
+  --font-sans: "Montserrat", system-ui, -apple-system, sans-serif;
+  --font-mono: "Geist Mono", monospace;
+  
+  /* Strict Grayscale Palette for Vercel-like Dark Platinum Theme */
+  --color-black-pure: #000000;
+  --color-black-elevated: #0A0A0A;
+  --color-black-recessed: #121212;
+  --color-border-thin: #1F1F1F;
+  --color-border-hover: #2E2E2E;
+  
+  /* Text roles */
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #8F8F8F;
+  --color-text-muted: #525252;
+}
+
+/* Custom global styles */
+@layer base {
+  html {
+    font-size: 18px;
+  }
+  body {
+    background-color: var(--color-black-pure);
+    color: var(--color-text-primary);
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11", "liga";
+  }
+  
+  /* Prevent double-tap zoom on interactive controls */
+  button, select, a, input, textarea {
+    touch-action: manipulation;
+  }
+
+  /* Strict monochrome focus rings */
+  input:focus, select:focus, textarea:focus {
+    outline: 1px solid var(--color-text-primary) !important;
+    outline-offset: 0px;
+    box-shadow: none !important;
+  }
+  
+  /* Minimalist dark scrollbar */
+  ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: var(--color-black-pure);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-border-thin);
+    border-radius: 2px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-border-hover);
+  }
+}
+
+/* Vercel Panel Styling */
+.v-panel {
+  background-color: var(--color-black-elevated);
+  border: 1px solid var(--color-border-thin);
+  border-radius: 8px;
+}
+
+.v-panel-hover {
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.v-panel-hover:hover {
+  background-color: var(--color-black-recessed);
+  border-color: var(--color-border-hover);
+}
+
+/* Grayscale border highlight */
+.v-border-glow {
+  position: relative;
+}
+
+.v-border-glow::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.02));
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
